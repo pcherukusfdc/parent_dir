@@ -1,0 +1,5 @@
+# This is release.txt file which manager 
+dev:v1.0.3
+test:v1.0.2
+stage:v1.0.1
+prod:v1.0.0
